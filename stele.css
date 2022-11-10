@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+.первые_спутники_СССР{
+    color: black;
+    text-align: center;
+}
+.Sputnik{
+    width: 1000px;
+}
