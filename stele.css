@@ -13,4 +13,14 @@ h1{
 }
 .Sputnik{
     width: 1000px;
+    height:200px ;
+    border: 1px solid red ;
+    position: absolute;
+}
+.link{
+    color: black;
+    text-decoration-color:none;
+    border: 1px solid purple;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
